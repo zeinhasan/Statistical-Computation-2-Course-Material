@@ -6,7 +6,7 @@
 - End Date        : -
 
 ## List of Content:
-- Week 1 - 
+- Week 1 - Introduction to Programming R and Python Languages
 - Week 2 - 
 - Week 3 - 
 - Week 4 - 
