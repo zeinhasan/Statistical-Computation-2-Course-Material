@@ -1,11 +1,5 @@
 # Reminder Kelas A
-## Week 1
-- Tugas 1 : Silahkan buat review
-- Tugas 2 : Diberikan syntax sebagai berikut
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+Jadwal Kelas Praktikum: Setiap Jum'at, pukul 13.30 - 15.10 WIB
+Info Luring/Daring Mengikuti Asisten Praktikum
 ```
