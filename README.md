@@ -7,7 +7,7 @@
 
 ## List of Content:
 - Week 1 - Introduction to Programming R and Python Languages
-- Week 2 - 
+- Week 2 - Data Manipulation with Pandas
 - Week 3 - 
 - Week 4 - 
 - Week 5 - 
