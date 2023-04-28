@@ -9,8 +9,9 @@
 - Week 1 - Introduction to Programming R and Python Languages
 - Week 2 - Data Manipulation with Pandas.
 - Week 3 - Join Data, Exploration and Visualization Data with Python.
-- Week 4 - 
-- Week 5 - 
+- Week 4 - Quiz 1
+- Week 5 - Scrapping Data from Web and API
+- Week 6 - Introduction to Machine Learning (Supervised Learning - Regression)
 
 ## Contact
 Contact me through to become colaborator or pull request:
