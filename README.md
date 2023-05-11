@@ -13,7 +13,7 @@
 - Week 5 - Scrapping Data from Web and API
 - Week 6 - Introduction to Machine Learning (Supervised Learning - Regression)
 - Week 7 - Introduction to Machine Learning (Supervised Learning - Classification)
-- Week 8 - Model Evaluation
+- Week 8 - Model Evaluation (Regression, Classfication and Cross Validation)
 ## Contact
 Contact me through to become colaborator or pull request:
 - https://www.linkedin.com/in/ahmad-habib-hasan-zein-88ab57216
